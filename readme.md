@@ -33,7 +33,11 @@ HTML/
 The website currently includes information about:
 
 * Web Development
-* C# Programming
+* UI/UX
+* Data Structure
+* Computer Networks
+* Database System
+* Python Basics
 
 ## How to Run
 
